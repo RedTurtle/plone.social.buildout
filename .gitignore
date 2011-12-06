@@ -2,3 +2,8 @@ bin
 include
 lib
 var
+eggs
+parts
+.installed.cfg
+.mr.developer.cfg
+
